@@ -1,0 +1,3 @@
+- [x] Review `luna-nails.html` and locate social links
+- [x] Remove Twitter link/item from contact section (if present)
+- [x] Verify no Twitter reference remains
